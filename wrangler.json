@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "super-dust-5ceb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "dc2a41c2-72fb-4538-be18-1952aee77b89",
+      "database_name": "late-dew-364c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
